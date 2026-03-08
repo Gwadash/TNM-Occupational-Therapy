@@ -1,0 +1,5 @@
+{
+  "name": "TNM Occupational Therapy",
+  "description": "Professional Occupational Therapy services in Vanderbijlpark, Gauteng. Specializing in Hand Therapy, Paediatric Therapy, and Medico-legal assessments.",
+  "requestFramePermissions": ["geolocation"]
+}
